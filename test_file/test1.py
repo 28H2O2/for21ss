@@ -11,7 +11,7 @@ webhook_url = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=4fe13c92-649
 # mentioned_list: @某个成员，或者@all
 # mentioned_mobile_list: @手机号码
 
-text_push_content = """请填写平安复旦"""
+text_push_content = """祝你全A"""
 
 text_data = {
     "msgtype": "text",
