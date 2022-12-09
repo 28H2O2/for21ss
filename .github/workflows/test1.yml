@@ -24,4 +24,4 @@ jobs:
 
       # 步骤，这里只写了一个步骤，目的是输出hello github acition
       - name: Run a one-line script
-        run: python ./test_robot.py
+        run: python /home/runner/work/for21ss/test_robot.py
